@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Terminal Snake Collection\C#\obj\Debug\netcoreapp3.1\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Terminal Snake Collection\C#\obj\Debug\netcoreapp3.1\main.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Terminal Snake Collection\C#\obj\Debug\netcoreapp3.1\main.AssemblyInfo.cs
+C:\Users\User\Desktop\Terminal Snake Collection\C#\obj\Debug\netcoreapp3.1\main.csproj.CoreCompileInputs.cache
